@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF3864&height=220&section=header&text=NAVEEN%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Graduate%20%7C%20Edge%20AI%20%26%20Computer%20Vision%20Engineer&descAlignY=55&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=Detecting+objects+in+real+time...;Reading+license+plates+with+OCR...;Deploying+on+Raspberry+Pi...;Shipping+it.+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00F5FF&center=true&width=600&lines=Detecting+objects+in+real+time...;Reading+license+plates+with+OCR...;Deploying+on+Raspberry+Pi...;Shipping+it."/>
 
 <br><br>
 
@@ -39,7 +39,7 @@ I build systems that step off the screen — cameras that catch violations in re
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveen777-hub&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=FF3864&text_color=ffffff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen777-hub&show_icons=true&theme=radical&hide_border=true" width="100%"/>
 
 </td>
 </tr>
