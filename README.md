@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF3864&height=220&section=header&text=NAVEEN%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Graduate%20%7C%20Edge%20AI%20%26%20Computer%20Vision%20Engineer&descAlignY=55&descSize=17"/>
+<h1 align="center">
+  <br>
+  <span style="color:#00F5FF">NAVEEN</span> <span style="color:#FF3864">KUMAR</span>
+  <br>
+</h1>
+
+<p align="center">
+  <b>MCA Graduate &nbsp;|&nbsp; Edge AI &amp; Computer Vision Engineer</b>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00F5FF&center=true&width=600&lines=Detecting+objects+in+real+time...;Reading+license+plates+with+OCR...;Deploying+on+Raspberry+Pi...;Shipping+it."/>
 
