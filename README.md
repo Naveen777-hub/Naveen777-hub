@@ -87,7 +87,7 @@ I build systems that step off the screen — cameras that catch violations in re
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/data/Naveen777-hub/profile-night-view.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Naveen777-hub/Naveen777-hub/main/profile-3d-contrib/profile-night-view.svg" width="100%"/>
 
 <sub>⚠️ Renders automatically once you enable the free GitHub Action linked below — no manual work needed after that.</sub>
 
