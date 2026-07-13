@@ -61,7 +61,7 @@ I build systems that step off the screen — cameras that catch violations in re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Smart-Ambulance-System&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=FF3864&text_color=ffffff" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Smart-Ambulance-System&theme=radical&hide_border=true" width="480"/>
 
 </div>
 
@@ -73,11 +73,11 @@ I build systems that step off the screen — cameras that catch violations in re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=REAL-TIME-FACE-ATTENDANCE-SYSTEM&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=FF3864&text_color=ffffff" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Graph-Quest-Pathfinding-Visualizer&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=FF3864&text_color=ffffff" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=REAL-TIME-FACE-ATTENDANCE-SYSTEM&theme=radical&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Graph-Quest-Pathfinding-Visualizer&theme=radical&hide_border=true" width="400"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Assess-Me&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=FF3864&text_color=ffffff" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Emergency_Vehicle_System&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=FF3864&text_color=ffffff" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Assess-Me&theme=radical&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Emergency_Vehicle_System&theme=radical&hide_border=true" width="400"/>
 
 </div>
 
