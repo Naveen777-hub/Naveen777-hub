@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <b>MCA Graduate &nbsp;|&nbsp; Edge AI &amp; Computer Vision Engineer</b>
+  <b>MCA Graduate &nbsp;|&nbsp; Edge AI &amp; Aspiring Computer Vision Engineer</b>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00F5FF&center=true&width=600&lines=Detecting+objects+in+real+time...;Reading+license+plates+with+OCR...;Deploying+on+Raspberry+Pi...;Shipping+it."/>
