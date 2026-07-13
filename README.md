@@ -2,15 +2,11 @@
 
 <h1 align="center">
   <br>
-  <span style="color:#00F5FF">NAVEEN</span> <span style="color:#FF3864">KUMAR</span>
+  Hey there, I'm <span style="color:#00F5FF">Naveen</span> <span style="color:#FF3864">Kumar</span> 👋
   <br>
 </h1>
 
-<p align="center">
-  <b>MCA Graduate &nbsp;|&nbsp; Edge AI &amp; Aspiring Computer Vision Engineer</b>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00F5FF&center=true&width=600&lines=Detecting+objects+in+real+time...;Reading+license+plates+with+OCR...;Deploying+on+Raspberry+Pi...;Shipping+it."/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00F5FF&center=true&width=600&lines=Engineering+intelligence+at+the+edge;Where+code+meets+the+physical+world;Building+systems+that+think+in+real+time;Turning+prototypes+into+production."/>
 
 <br><br>
 
@@ -29,7 +25,7 @@
 
 ### 🧬 Who I Am
 
-I build systems that step off the screen — cameras that catch violations in real time, models that run on hardware smaller than a paperback, and code that has to work the *first* time because there's no undo button in the real world.
+I build at the intersection of code, silicon, and intelligence—where machines learn to perceive, algorithms learn to adapt, and every millisecond has the power to make a difference.
 
 - 🎓 **MCA Graduate** (BCA before that)
 - 🚑 Just shipped **RescueWay** — an Edge AI ambulance-priority system running live on a Raspberry Pi
@@ -45,9 +41,23 @@ I build systems that step off the screen — cameras that catch violations in re
 </details>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveen777-hub&show_icons=true&theme=radical&hide_border=true" width="100%"/>
+<div align="center">
+
+**⚡ Snapshot**
+
+<br>
+
+![Focus](https://img.shields.io/badge/FOCUS-Edge%20AI%20%26%20Computer%20Vision-00F5FF?style=for-the-badge&labelColor=000000)
+
+![Building](https://img.shields.io/badge/BUILDING-RescueWay-FF3864?style=for-the-badge&labelColor=000000)
+
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-00D9FF?style=for-the-badge&labelColor=000000)
+
+![Learning](https://img.shields.io/badge/LEARNING-Scalable%20AI%20Systems-7B2FF7?style=for-the-badge&labelColor=000000)
+
+</div>
 
 </td>
 </tr>
