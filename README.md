@@ -61,25 +61,74 @@ I build systems that step off the screen — cameras that catch violations in re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Smart-Ambulance-System&theme=radical&hide_border=true" width="480"/>
+<table>
+<tr>
+<td width="600" style="padding:20px;">
+
+### <a href="https://github.com/Naveen777-hub/Smart-Ambulance-System">🚑 Smart-Ambulance-System</a>
+
+Edge AI object detection + IoT signal control + OCR plate recognition, all running live on a Raspberry Pi to clear traffic for ambulances in real time.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<p align="center"><i>Edge AI object detection + IoT signal control + OCR plate recognition, all running live on a Raspberry Pi to clear traffic for ambulances in real time.</i></p>
 
 <br>
 
 ## 📦 More From The Lab
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=REAL-TIME-FACE-ATTENDANCE-SYSTEM&theme=radical&hide_border=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Graph-Quest-Pathfinding-Visualizer&theme=radical&hide_border=true" width="400"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Assess-Me&theme=radical&hide_border=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen777-hub&repo=Emergency_Vehicle_System&theme=radical&hide_border=true" width="400"/>
+### <a href="https://github.com/Naveen777-hub/REAL-TIME-FACE-ATTENDANCE-SYSTEM">👤 Real-Time Face Attendance</a>
 
-</div>
+Django-based system that recognizes faces live via webcam, auto-marks attendance, flags late arrivals, and gives admins a full dashboard.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Naveen777-hub/Graph-Quest-Pathfinding-Visualizer">🧭 Graph-Quest Visualizer</a>
+
+Watch Dijkstra, A*, BFS and DFS actually think — a step-by-step visual for algorithms most people only see as pseudocode.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Naveen777-hub/Assess-Me">📝 Assess-Me</a>
+
+A structured web-based platform built for running assessments at scale.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Naveen777-hub/Emergency_Vehicle_System">🚦 Emergency Vehicle System</a>
+
+Web-based prototype simulating emergency vehicle signaling and priority logic.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
 
